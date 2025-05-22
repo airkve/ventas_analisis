@@ -53,4 +53,4 @@ python analisis_ventas_reales.py
 
 ## 👤 Autor
 
-Richard Jiménez – Especialista en TI con enfoque analítico y orientación a la automatización y visualización de datos.
+Richard Jiménez.
