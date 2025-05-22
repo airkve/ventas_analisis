@@ -3,27 +3,27 @@
 
 Este proyecto utiliza un dataset real de ventas para realizar análisis exploratorios y generar visualizaciones útiles para la toma de decisiones empresariales. Forma parte de un portafolio personal que aplica conocimientos de análisis de datos a un contexto profesional.
 
-## 📌 Objetivo
+## Objetivo
 
 Analizar un histórico de órdenes de ventas para:
 - Identificar los productos más vendidos
 - Evaluar el desempeño por país
 - Observar la evolución mensual de las ventas
 
-## 📁 Dataset
+## Dataset
 
 - Fuente: Dataset público simulado (`sales_data_sample.csv`)
 - Registros: 2,823 transacciones
 - Campos clave: PRODUCTLINE, COUNTRY, SALES, ORDERDATE
 
-## 🛠 Tecnologías
+## Tecnologías
 
 - **Python**: procesamiento de datos
 - **pandas**: transformación y agrupamiento
 - **matplotlib**: visualización
 - **Excel (xlsxwriter)**: consolidación de reportes
 
-## 📊 Resultados Generados
+## Resultados Generados
 
 - `reporte_ventas_reales.xlsx`: Reporte en Excel con hojas:
   - Top Productos
@@ -35,7 +35,7 @@ Analizar un histórico de órdenes de ventas para:
 - `ventas_pais.png`: Gráfico de barras horizontales por país
 - `ventas_mensuales.png`: Gráfico de línea con evolución mensual
 
-## ▶️ Uso
+## Uso
 
 1. Instalar dependencias:
 ```bash
@@ -51,6 +51,6 @@ python analisis_ventas_reales.py
 
 4. Revisar los archivos de salida (.xlsx y .png).
 
-## 👤 Autor
+## Autor
 
 Richard Jiménez.
